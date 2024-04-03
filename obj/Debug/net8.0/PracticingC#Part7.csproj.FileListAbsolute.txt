@@ -1,0 +1,14 @@
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\bin\Debug\net8.0\PracticingC#Part7.exe
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\bin\Debug\net8.0\PracticingC#Part7.deps.json
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\bin\Debug\net8.0\PracticingC#Part7.runtimeconfig.json
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\bin\Debug\net8.0\PracticingC#Part7.dll
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\bin\Debug\net8.0\PracticingC#Part7.pdb
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.AssemblyInfo.cs
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.dll
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\refint\PracticingC#Part7.dll
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.pdb
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\PracticingC#Part7.genruntimeconfig.cache
+C:\Users\steph\source\repos\PracticingC#Part7\PracticingC#Part7\obj\Debug\net8.0\ref\PracticingC#Part7.dll
